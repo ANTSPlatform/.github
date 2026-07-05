@@ -64,4 +64,4 @@ ANTS Platform is an **LLM engineering** platform. It helps teams collaboratively
 
 ## Learn more
 
-See the [ants-platform/ants-platform readme](https://github.com/ANTSPlatform) and [docs](https://www.antsplatform.ai/docs) for more details.
+See the [docs](https://www.antsplatform.ai/docs) for more details.
