@@ -2,7 +2,7 @@
    <img src="../static/logo.png" alt="ANTS Platform GitHub Banner">
 </div>
 
-<div align="center">
+<!-- <div align="center">
    <div>
       <h3>
          <a href="https://cloud.ants-platform.com">
@@ -18,21 +18,21 @@
    </div>
 
    <div>
-      <a href="https://agenticants.ai/docs"><strong>Docs</strong></a> ·
+      <a href="https://www.antsplatform.ai/docs"><strong>Docs</strong></a> ·
       <a href="https://ants-platform.com/issues"><strong>Report Bug</strong></a> ·
       <a href="https://ants-platform.com/ideas"><strong>Feature Request</strong></a> ·
       <a href="https://ants-platform.com/changelog"><strong>Changelog</strong></a> ·
       <a href="https://ants-platform.com/roadmap"><strong>Roadmap</strong></a> ·
    </div>
    <br/>
-   <span>ANTS Platform uses <a href="https://github.com/orgs/ants-platform/discussions"><strong>Github Discussions</strong></a>  for Support and Feature Requests.</span>
+   <span>ANTS Platform uses <a href="https://github.com/ANTSPlatform/discussions"><strong>Github Discussions</strong></a>  for Support and Feature Requests.</span>
    <br/>
    <span><b>We're hiring.</b> <a href="https://ants-platform.com/careers"><strong>Join us</strong></a> in product engineering and technical go-to-market roles.</span>
    <br/>
    <br/>
    <div>
    </div>
-</div>
+</div> -->
 
 <p align="center">
    <a href="https://github.com/ants-platform/.github/blob/main/LICENSE">
@@ -61,8 +61,7 @@
 ANTS Platform is an **LLM engineering** platform. It helps teams collaboratively
 **develop, monitor, evaluate,** and **debug** AI applications. ANTS Platform can be **self-hosted in minutes** and is **battle-tested**.
 
-[![ANTS Platform Overview Video](https://img.youtube.com/vi/IbTCZHUrJJ0/maxresdefault.jpg)](https://www.youtube.com/watch?v=IbTCZHUrJJ0)
 
 ## Learn more
 
-See the [ants-platform/ants-platform readme](https://github.com/ants-platform/ants-platform) and [docs](https://ants-platform.com/docs) for more details.
+See the [ants-platform/ants-platform readme](https://github.com/ANTSPlatform) and [docs](https://www.antsplatform.ai/docs) for more details.
